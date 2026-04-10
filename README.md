@@ -37,7 +37,7 @@ This was used to show the proportion of each category (remote, hybrid, on-site).
  *	Bar Chart (% of Job Posting by Company Industry):
 A bar chart is ideal here because it makes it easy to compare job demand across different industries and identify which industries are hiring more. 
 
- •	Bar Chart (% of Job Posting by Company Size):
+ *	Bar Chart (% of Job Posting by Company Size):
 This chart helps compare how different company sizes contribute to job postings, making it easier to spot which company type dominates hiring. 
 
  *	Doughnut Chart (% of Job Posting by Education Level):
