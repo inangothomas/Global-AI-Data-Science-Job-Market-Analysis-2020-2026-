@@ -1,6 +1,6 @@
 # Global-AI-Data-Science-Job-Market-Analysis-2020-2026
 
-A Data-Driven Dashboard Analysis
+## A Data-Driven Dashboard Analysis
 
 ## Introduction
 
@@ -14,15 +14,16 @@ The dataset used for this project contains information on global AI and data sci
 
 With the rapid growth of AI and data science, it has become important to understand what skills are in demand, how salaries vary, and what factors influence job opportunities. Many job seekers struggle to identify where to focus their efforts, while companies need better insights to attract the right talent.
 This project seeks to answer key questions such as:
- •	How have job postings changed over time?
- •	What skills are most in demand?
- •	How do factors like experience level, education, and work mode influence job opportunities?
+ *	How have job postings changed over time?
+ *	What skills are most in demand?
+ *	How do factors like experience level, education, and work mode influence job opportunities?
 The goal is to provide insights that can support career planning and hiring strategies.
 
 ## Visualization
 
-The dashboard was created using multiple pivot tables and charts to visualize key aspects of the dataset. These include job trends over time, salary distribution across job roles, work mode preferences, experience level impact on salary, and the most in-demand skills. Each visualization provides a clear and interactive way to understand patterns and relationships within the dataset.
-To make the analysis clear and easy to understand, different types of charts were used based on the nature of the data:
+The dashboard was created using multiple pivot tables and charts to visualize key aspects of the dataset. These include job trends over time, salary distribution across job roles, work mode preferences, experience level impact on salary, and the most in-demand skills. 
+ * Each visualization provides a clear and interactive way to understand patterns and relationships within the dataset.
+ * To make the analysis clear and easy to understand, different types of charts were used based on the nature of the data:
 
  *	Line Chart (Trend of Job Posting Over Time):
 A line chart was used here because it is the best way to show trends over a period of time. It helps to clearly visualize increases and decreases in job postings from 2020 to 2026. 
@@ -50,22 +51,22 @@ KPI cards were used to present key figures because they provide quick, high-leve
 
 ## Insights 
 From the analysis, several key insights can be observed:
- *	Job postings fluctuate over time, with a noticeable drop in 2023 and a strong increase in 2024, suggesting changes in market demand. 
- *	The average salary of $113,438 shows that AI and data science roles are highly rewarding globally. 
- *	Cloud and machine learning skills stand out as the most in-demand, indicating where job seekers should focus. 
- *	Job opportunities are evenly distributed across remote, hybrid, and on-site roles, showing flexibility in the modern workplace. 
- •	There is a fairly balanced demand across entry, mid, and senior levels, meaning opportunities exist for different experience levels. 
- •	Multiple industries such as technology, finance, healthcare, and e-commerce are actively hiring, showing that AI is widely applicable. 
- •	Startups slightly lead in hiring, suggesting that innovation-driven companies are actively seeking talent.
- •	The analysis shows that most job postings are concentrated in Germany, indicating a higher demand for tech roles in that region.
+  *	Job postings fluctuate over time, with a noticeable drop in 2023 and a strong increase in 2024, suggesting changes in market demand. 
+  *	The average salary of $113,438 shows that AI and data science roles are highly rewarding globally. 
+  *	Cloud and machine learning skills stand out as the most in-demand, indicating where job seekers should focus. 
+  * Job opportunities are evenly distributed across remote, hybrid, and on-site roles, showing flexibility in the modern workplace. 
+  *	There is a fairly balanced demand across entry, mid, and senior levels, meaning opportunities exist for different experience levels. 
+  *	Multiple industries such as technology, finance, healthcare, and e-commerce are actively hiring, showing that AI is widely applicable. 
+  *	Startups slightly lead in hiring, suggesting that innovation-driven companies are actively seeking talent.
+  *	The analysis shows that most job postings are concentrated in Germany, indicating a higher demand for tech roles in that region.
 
 ## Recommendation
 
 Based on the insights:
-*	Job seekers should focus on high-demand skills like cloud computing and machine learning to increase their chances of employment. 
-•	Professionals should continuously improve their skills to remain competitive and access higher-paying roles. 
-•	Companies should maintain flexible work options to attract a broader range of talent. 
-•	Educational institutions should align their programs with industry needs, especially in AI and emerging technologies.
+ *	Job seekers should focus on high-demand skills like cloud computing and machine learning to increase their chances of employment. 
+ *	Professionals should continuously improve their skills to remain competitive and access higher-paying roles. 
+ *	Companies should maintain flexible work options to attract a broader range of talent. 
+ *	Educational institutions should align their programs with industry needs, especially in AI and emerging technologies.
 
 ## Conclusion
 
