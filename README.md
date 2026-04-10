@@ -24,16 +24,16 @@ The goal is to provide insights that can support career planning and hiring stra
 The dashboard was created using multiple pivot tables and charts to visualize key aspects of the dataset. These include job trends over time, salary distribution across job roles, work mode preferences, experience level impact on salary, and the most in-demand skills. Each visualization provides a clear and interactive way to understand patterns and relationships within the dataset.
 To make the analysis clear and easy to understand, different types of charts were used based on the nature of the data:
 
- •	Line Chart (Trend of Job Posting Over Time):
+ *	Line Chart (Trend of Job Posting Over Time):
 A line chart was used here because it is the best way to show trends over a period of time. It helps to clearly visualize increases and decreases in job postings from 2020 to 2026. 
 
- •	Bar Chart (Skill Requirements by Job Title):
+ * Bar Chart (Skill Requirements by Job Title):
 A bar chart was used to compare different skills because it allows for easy comparison between categories. It clearly shows which skills are more in demand than others. 
 
- •	Doughnut Chart (% of Job Posting by Location Type):
+ *	Doughnut Chart (% of Job Posting by Location Type):
 This was used to show the proportion of each category (remote, hybrid, on-site). It helps to quickly understand how job postings are distributed across work modes. 
 
- •	Bar Chart (% of Job Posting by Company Industry):
+ *	Bar Chart (% of Job Posting by Company Industry):
 A bar chart is ideal here because it makes it easy to compare job demand across different industries and identify which industries are hiring more. 
 
  •	Bar Chart (% of Job Posting by Company Size):
