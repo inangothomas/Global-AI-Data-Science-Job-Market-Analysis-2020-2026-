@@ -39,21 +39,21 @@ A bar chart is ideal here because it makes it easy to compare job demand across 
  •	Bar Chart (% of Job Posting by Company Size):
 This chart helps compare how different company sizes contribute to job postings, making it easier to spot which company type dominates hiring. 
 
- •	Doughnut Chart (% of Job Posting by Education Level):
+ *	Doughnut Chart (% of Job Posting by Education Level):
 This chart shows the distribution of educational requirements, making it easy to see how demand is shared across Bachelor’s, Master’s, and PhD levels. 
 
- •	Doughnut Chart (% of Job Posting by Experience Level):
+ *	Doughnut Chart (% of Job Posting by Experience Level):
 This was used to highlight the balance between entry, mid, and senior roles, helping to understand opportunities across different experience levels.
 
- •	KPI Cards (Total Job Postings, Average Salary, Average Years of Experience):
+ *	KPI Cards (Total Job Postings, Average Salary, Average Years of Experience):
 KPI cards were used to present key figures because they provide quick, high-level insights at a glance, without needing detailed analysis.
 
 ## Insights 
 From the analysis, several key insights can be observed:
- •	Job postings fluctuate over time, with a noticeable drop in 2023 and a strong increase in 2024, suggesting changes in market demand. 
- •	The average salary of $113,438 shows that AI and data science roles are highly rewarding globally. 
- •	Cloud and machine learning skills stand out as the most in-demand, indicating where job seekers should focus. 
- •	Job opportunities are evenly distributed across remote, hybrid, and on-site roles, showing flexibility in the modern workplace. 
+ *	Job postings fluctuate over time, with a noticeable drop in 2023 and a strong increase in 2024, suggesting changes in market demand. 
+ *	The average salary of $113,438 shows that AI and data science roles are highly rewarding globally. 
+ *	Cloud and machine learning skills stand out as the most in-demand, indicating where job seekers should focus. 
+ *	Job opportunities are evenly distributed across remote, hybrid, and on-site roles, showing flexibility in the modern workplace. 
  •	There is a fairly balanced demand across entry, mid, and senior levels, meaning opportunities exist for different experience levels. 
  •	Multiple industries such as technology, finance, healthcare, and e-commerce are actively hiring, showing that AI is widely applicable. 
  •	Startups slightly lead in hiring, suggesting that innovation-driven companies are actively seeking talent.
@@ -62,7 +62,7 @@ From the analysis, several key insights can be observed:
 ## Recommendation
 
 Based on the insights:
-•	Job seekers should focus on high-demand skills like cloud computing and machine learning to increase their chances of employment. 
+*	Job seekers should focus on high-demand skills like cloud computing and machine learning to increase their chances of employment. 
 •	Professionals should continuously improve their skills to remain competitive and access higher-paying roles. 
 •	Companies should maintain flexible work options to attract a broader range of talent. 
 •	Educational institutions should align their programs with industry needs, especially in AI and emerging technologies.
