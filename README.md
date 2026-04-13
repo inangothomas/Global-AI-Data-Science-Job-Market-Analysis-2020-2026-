@@ -21,6 +21,8 @@ The goal is to provide insights that can support career planning and hiring stra
 
 ## Visualization
 
+![](Dashboard Image.jpeg)
+
 The dashboard was created using multiple pivot tables and charts to visualize key aspects of the dataset. These include job trends over time, salary distribution across job roles, work mode preferences, experience level impact on salary, and the most in-demand skills. 
  * Each visualization provides a clear and interactive way to understand patterns and relationships within the dataset.
  * To make the analysis clear and easy to understand, different types of charts were used based on the nature of the data:
