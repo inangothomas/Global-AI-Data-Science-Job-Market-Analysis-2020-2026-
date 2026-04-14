@@ -4,6 +4,9 @@
 
 ## Introduction
 
+<img width="1200" height="1200" alt="Introduction_Image" src="https://github.com/user-attachments/assets/b221f635-5da5-4b7b-9e8b-4f995a0b8fe7" />
+
+
 In today’s digital age, AI and data science have become some of the most in-demand fields globally. This project focuses on analyzing job market trends within this space from 2020 to 2026. By exploring job postings, salaries, required skills, and other key factors, the goal is to understand what the industry currently looks like and what it means for job seekers and organizations. This analysis helps simplify complex data into insights that can guide better decisions.
 
 ## About the Dataset
